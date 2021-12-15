@@ -5,6 +5,9 @@ Mata Kuliah   : **Pemrograman Mobile 1**.
 Dosen Pegampu : **Ryan Syahputra M.Kom**.  
 **Universitas Budi Darma Medan**
 
+Bagi yang mau nyoba app nya,  
+App nya bisa di download dari link ini ya : [DOWNLOAD APK](https://github.com/luhur65/tugasPMBL1/releases/download/v1.0.0/TugasPMBL1.apk).  
+
 Dibuat Oleh :
 ## Kelompok 2
 1. Dharma Bakti Situmorang - 20120087
