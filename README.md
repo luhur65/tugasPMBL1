@@ -3,6 +3,7 @@
 Semester      : **3**.  
 Mata Kuliah   : **Pemrograman Mobile 1**.  
 Dosen Pegampu : **Ryan Syahputra M.Kom**.  
+**Universitas Budi Darma Medan**
 
 Dibuat Oleh :
 ## Kelompok 2
@@ -13,5 +14,7 @@ Dibuat Oleh :
 5. Khairunnisa - 20120099
 6. Delis Marnyu - 20120106
 7. Jihadussabil - 20120021
+
+![kelompok2](https://user-images.githubusercontent.com/57518427/146184718-81adbcbc-20af-4b9e-b3a6-c98e88692596.jpg)  
 
 Sekian & Terima Kasih.
